@@ -1,0 +1,58 @@
+.bar{
+    background-color: rgb(239, 239, 239);
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.hitchindividual{
+    color: darkgreen;
+}
+.logo{
+    font-size: 100px;
+    margin-left: 30px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-family: sans-serif;
+    margin-right: 25px;
+    font-size: 20px;
+}
+
+.body{
+    height: 80vh;
+    background-color: rgb(241, 241, 241);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.footer{
+    background-color: rgb(48, 48, 48);
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.mainContainer{
+    background-color: rgb(255, 255, 255);
+    height: 40vh;
+    width: 35vw;
+    padding: 50px;
+    font-size: 3vh;
+    font-weight:lighter;
+    font-family: monospace;
+    border-radius: 10%;
+    
+
+}
+
+.cross{
+    font-size: 30px;
+    margin-bottom: 5px;
+}
