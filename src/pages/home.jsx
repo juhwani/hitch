@@ -5,7 +5,6 @@ import Body from '../components/Body.jsx'
 const home = () => {
   return (
     <>
-        <Navbar></Navbar>
         <Body></Body>
         <Footer></Footer>
     </>
